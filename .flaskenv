@@ -1,0 +1,3 @@
+FLASK_APP=watchlist
+FLASK_ENVIRONMENT=development
+
